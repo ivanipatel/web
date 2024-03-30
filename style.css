@@ -1,0 +1,23 @@
+.container {
+    max-width: 300px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+input, button {
+    display: block;
+    margin: 10px 0;
+    width: 100%;
+    padding: 10px;
+}
+
+button {
+    background-color: #0078d4;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #00559e;
+}
